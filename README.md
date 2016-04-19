@@ -1,4 +1,4 @@
-dsp
+VAD
 ===
 
-DSP functions (utilities) with accompanying examples.
+DSP applied to Voice Activity Detection.
